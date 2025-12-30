@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold">
           Energie-advies voor KMO & Industrie
         </h1>
-        <p className="mt-4">sonny@sd2energy.be | 0472 695 409</p>
+        <p className="mt-4">cedric@sd2energy.be | 0472 695 409</p>
       </header>
 
       {/* Werkwijze */}
